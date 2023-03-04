@@ -10,5 +10,5 @@ When it is released download the engine.py file.
 
 ```python
 from engine import *
-{functions}
+tge.{function}
 ```
